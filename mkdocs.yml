@@ -1,0 +1,18 @@
+site_name: Documentação de Info3Mail
+site_dir: /var/www/localhost/htdocs
+site_author: Jurandy Soares
+
+theme:
+  name: readthedocs
+  language: pt
+
+plugins:
+  - search
+  - mermaid2
+  - table-reader
+
+nav:
+  - index.md
+  - diagramas.md
+  - usuarios.md
+
