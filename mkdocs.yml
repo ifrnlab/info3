@@ -1,6 +1,6 @@
-site_name: Documentação de Info3Mail
-site_dir: /var/www/localhost/htdocs
-site_author: Jurandy Soares
+site_name: VPS de Info3
+site_dir: /var/www/localhost/htdocs/2025/sitio
+site_author: "Jurandy Soares & Info3{M,V}"
 
 theme:
   name: readthedocs

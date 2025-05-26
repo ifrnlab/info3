@@ -1,5 +1,7 @@
-mkdocs
-mkdocs-material
-mkdocs-material-extensions
-mkdocs-mermaid2-plugin
-mkdocs-table-reader-plugin
+furo
+myst-parser
+sphinx
+sphinx-autobuild
+sphinx-book-theme
+sphinx-inline-tabs
+sphinxcontrib-mermaid
